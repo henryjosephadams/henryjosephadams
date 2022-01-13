@@ -1,6 +1,5 @@
-Hello my name is Henry, but you can call me Hjadams.
+Hello there, my name is hjadams.
 
-I'm intrested in Premiere Pro, After Effects, and Photoshop.
+I am interest in video and photo editing.
 
-You can find my socials on https://linktr.ee/henryjosephadams.
-
+You can find my socials at https://linktr.ee/henryjosephadams.
