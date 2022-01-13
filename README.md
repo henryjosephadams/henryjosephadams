@@ -1,8 +1,8 @@
-Hello there,
+NAME: hjadams
 
-My name is Henry, but I go by hjadams.
+GENDER: Male
 
-I am interest in video and photo editing.
+HOBBIES: Photo & Video EditingCancel changes
 
 You can find my socials at https://linktr.ee/henryjosephadams.
 
