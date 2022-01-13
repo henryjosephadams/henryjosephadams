@@ -1,4 +1,4 @@
-Hello user,
+Hello there,
 
 My name is Henry, but I go by hjadams.
 
