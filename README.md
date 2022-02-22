@@ -4,5 +4,5 @@ GENDER: Male
 
 HOBBIES: Photo & Video Editing
 
-SOCIALS: https://linktr.ee/henryjosephadams.
+SOCIALS: https://linktr.ee/henryjosephadams
 
